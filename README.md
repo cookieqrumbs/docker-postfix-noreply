@@ -14,8 +14,8 @@ Optional Environment variables
 
 
 ## Disable authentication
-Required environment variable
-- `NO_AUTH` = **Y**
+Optional Environment variable
+- `NO_AUTH` = **Y** (Default value: **N**)
 
 Optional Environment variables
 - `TRUST_NETWORK` (Default value: **10.0.0.0/16**)
